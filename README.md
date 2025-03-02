@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avator7(YASH)
-- 👀 I’m interested in Python Javascript SQL e.t.c
+- 👀 I’m interested in Python Javascript SQL web scraping flask Django e.t.c
 - 🌱 I’m currently learning django react
 - 💞️ I’m looking to collaborate on react 
 - 📫 How to reach me yyashraj07@gmail.com
